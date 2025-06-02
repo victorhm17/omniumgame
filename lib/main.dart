@@ -16,6 +16,9 @@ import "package:omnium_game/features/matchmaking/screens/waiting_for_opponent_sc
 import "package:omnium_game/features/trivia_game/repositories/trivia_game_repository.dart";
 // Removido import não utilizado de TriviaGameCubit
 import "package:omnium_game/features/trivia_game/screens/trivia_game_screen.dart";
+import "package:omnium_game/features/trivia_game/screens/game_mode_selection_screen.dart";
+import "package:omnium_game/features/trivia_game/screens/bot_game_screen.dart";
+import "package:omnium_game/core/models/bot_player.dart";
 import "package:omnium_game/features/photo_challenges/repositories/photo_challenges_repository.dart";
 import "package:omnium_game/features/photo_challenges/cubit/photo_challenges_cubit.dart";
 import "package:omnium_game/features/photo_challenges/screens/challenge_selection_screen.dart";
@@ -141,6 +144,33 @@ class OmniumGame extends StatelessWidget {
                     return ChallengeSubmissionScreen(challengeId: challengeId);
                   },
                 ),
+                GoRoute(
+                  path: "/game-mode-selection",
+                  builder: (context, state) => const GameModeSelectionScreen(),
+                ),
+                GoRoute(
+                  path: "/game/bot",
+                  builder: (context, state) {
+                    final difficultyParam = state.uri.queryParameters["difficulty"] ?? "medium";
+                    final difficulty = BotDifficulty.values.firstWhere(
+                      (d) => d.name == difficultyParam,
+                      orElse: () => BotDifficulty.medium,
+                    );
+                    return BotGameScreen(difficulty: difficulty);
+                  },
+                ),
+                GoRoute(
+                  path: "/game/local",
+                  builder: (context, state) {
+                    // TODO: Implementar tela de jogo local
+                    return const Scaffold(
+                      appBar: null,
+                      body: Center(
+                        child: Text("Modo Local - Em desenvolvimento"),
+                      ),
+                    );
+                  },
+                ),
                 // TODO: Adicionar outras rotas necessárias (perfil, configurações, etc.)
               ],
               redirect: (BuildContext context, GoRouterState state) {
@@ -152,8 +182,8 @@ class OmniumGame extends StatelessWidget {
                   return loggingIn || signingUp ? null : "/login";
                 }
                 if (authState is AuthAuthenticated) {
-                  // Redireciona para a tela de opções de matchmaking após login/signup
-                  return loggingIn || signingUp ? "/matchmaking/options" : null;
+                  // Redireciona para a tela de seleção de modo de jogo após login/signup
+                  return loggingIn || signingUp ? "/game-mode-selection" : null;
                 }
                 // Se AuthLoading ou AuthInitial, não redireciona ainda (pode mostrar splash)
                 return null; 
