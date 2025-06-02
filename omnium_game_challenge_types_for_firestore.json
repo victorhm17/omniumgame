@@ -1,0 +1,184 @@
+{
+  "challenge_types": [
+    {
+      "name": "Tire uma foto de uma caneca.",
+      "description": "(Nível: Leve)",
+      "icon_url": null,
+      "category": "Leve"
+    },
+    {
+      "name": "Tire uma foto do seu par de tênis favorito.",
+      "description": "(Nível: Leve)",
+      "icon_url": null,
+      "category": "Leve"
+    },
+    {
+      "name": "Mostre algo amarelo que está perto de você.",
+      "description": "(Nível: Leve)",
+      "icon_url": null,
+      "category": "Leve"
+    },
+    {
+      "name": "Tire uma foto do seu controle remoto.",
+      "description": "(Nível: Leve)",
+      "icon_url": null,
+      "category": "Leve"
+    },
+    {
+      "name": "Mostre o livro mais perto de você.",
+      "description": "(Nível: Leve)",
+      "icon_url": null,
+      "category": "Leve"
+    },
+    {
+      "name": "Faça um desenho simples e envie uma foto.",
+      "description": "(Nível: Leve)",
+      "icon_url": null,
+      "category": "Leve"
+    },
+    {
+      "name": "Mostre o que tem na sua mão agora.",
+      "description": "(Nível: Leve)",
+      "icon_url": null,
+      "category": "Leve"
+    },
+    {
+      "name": "Tire uma foto de uma almofada.",
+      "description": "(Nível: Leve)",
+      "icon_url": null,
+      "category": "Leve"
+    },
+    {
+      "name": "Mostre algo redondo.",
+      "description": "(Nível: Leve)",
+      "icon_url": null,
+      "category": "Leve"
+    },
+    {
+      "name": "Envie uma foto da sua bebida atual.",
+      "description": "(Nível: Leve)",
+      "icon_url": null,
+      "category": "Leve"
+    },
+    {
+      "name": "Desenhe um animal em 30 segundos e envie a foto.",
+      "description": "(Nível: Criativo)",
+      "icon_url": null,
+      "category": "Criativo"
+    },
+    {
+      "name": "Crie uma frase motivacional e escreva à mão.",
+      "description": "(Nível: Criativo)",
+      "icon_url": null,
+      "category": "Criativo"
+    },
+    {
+      "name": "Tire uma selfie fazendo uma pose de filme de ação.",
+      "description": "(Nível: Criativo)",
+      "icon_url": null,
+      "category": "Criativo"
+    },
+    {
+      "name": "Imite um emoji e envie uma selfie.",
+      "description": "(Nível: Criativo)",
+      "icon_url": null,
+      "category": "Criativo"
+    },
+    {
+      "name": "Tire uma foto segurando um objeto de maneira inusitada.",
+      "description": "(Nível: Criativo)",
+      "icon_url": null,
+      "category": "Criativo"
+    },
+    {
+      "name": "Fotografe uma composição com 3 objetos que tenham algo em comum.",
+      "description": "(Nível: Criativo)",
+      "icon_url": null,
+      "category": "Criativo"
+    },
+    {
+      "name": "Mostre sua melhor pose de espelho (sem mostrar rosto, se quiser).",
+      "description": "(Nível: Criativo)",
+      "icon_url": null,
+      "category": "Criativo"
+    },
+    {
+      "name": "Tire uma foto com um penteado maluco.",
+      "description": "(Nível: Criativo)",
+      "icon_url": null,
+      "category": "Criativo"
+    },
+    {
+      "name": "Faça uma colagem com itens da sua mesa.",
+      "description": "(Nível: Criativo)",
+      "icon_url": null,
+      "category": "Criativo"
+    },
+    {
+      "name": "Crie uma frase com 5 palavras aleatórias e escreva.",
+      "description": "(Nível: Criativo)",
+      "icon_url": null,
+      "category": "Criativo"
+    },
+    {
+      "name": "Envie uma selfie com o ombro à mostra.",
+      "description": "(Nível: Íntimo)",
+      "icon_url": null,
+      "category": "Íntimo"
+    },
+    {
+      "name": "Tire uma foto da sua barriga (sem mostrar o rosto).",
+      "description": "(Nível: Íntimo)",
+      "icon_url": null,
+      "category": "Íntimo"
+    },
+    {
+      "name": "Fotografe algo que você acha sexy (sem ser explícito).",
+      "description": "(Nível: Íntimo)",
+      "icon_url": null,
+      "category": "Íntimo"
+    },
+    {
+      "name": "Mostre seu pijama favorito.",
+      "description": "(Nível: Íntimo)",
+      "icon_url": null,
+      "category": "Íntimo"
+    },
+    {
+      "name": "Faça um desenho sensual abstrato e envie a foto.",
+      "description": "(Nível: Íntimo)",
+      "icon_url": null,
+      "category": "Íntimo"
+    },
+    {
+      "name": "Tire uma selfie de costas com uma pose criativa.",
+      "description": "(Nível: Íntimo)",
+      "icon_url": null,
+      "category": "Íntimo"
+    },
+    {
+      "name": "Envie uma imagem da sua mão em formato de coração.",
+      "description": "(Nível: Íntimo)",
+      "icon_url": null,
+      "category": "Íntimo"
+    },
+    {
+      "name": "Fotografe sua silhueta contra a luz (sombra).",
+      "description": "(Nível: Íntimo)",
+      "icon_url": null,
+      "category": "Íntimo"
+    },
+    {
+      "name": "Mostre uma parte do seu look íntimo (meia, cinto, detalhe).",
+      "description": "(Nível: Íntimo)",
+      "icon_url": null,
+      "category": "Íntimo"
+    },
+    {
+      "name": "Envie uma selfie com uma expressão sedutora.",
+      "description": "(Nível: Íntimo)",
+      "icon_url": null,
+      "category": "Íntimo"
+    }
+  ]
+}

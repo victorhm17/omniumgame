@@ -1,0 +1,472 @@
+{
+  "questions": [
+    {
+      "category": "Geografia",
+      "difficulty": "Fácil",
+      "text": "Qual é o maior país do mundo em extensão territorial?",
+      "options": [
+        {
+          "text": "a) China",
+          "isCorrect": true
+        },
+        {
+          "text": "b) Canadá",
+          "isCorrect": false
+        },
+        {
+          "text": "c) Rússia",
+          "isCorrect": false
+        },
+        {
+          "text": "d) EUA",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "c) Rússia",
+      "imageUrl": null,
+      "createdAt": "ADMIN_GENERATED"
+    },
+    {
+      "category": "Geografia",
+      "difficulty": "Fácil",
+      "text": "Qual é o deserto mais seco do mundo?",
+      "options": [
+        {
+          "text": "a) Saara",
+          "isCorrect": true
+        },
+        {
+          "text": "b) Kalahari",
+          "isCorrect": false
+        },
+        {
+          "text": "c) Atacama",
+          "isCorrect": false
+        },
+        {
+          "text": "d) Gobi",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "c) Atacama",
+      "imageUrl": null,
+      "createdAt": "ADMIN_GENERATED"
+    },
+    {
+      "category": "História",
+      "difficulty": "Fácil",
+      "text": "Em que ano acabou a Segunda Guerra Mundial?",
+      "options": [
+        {
+          "text": "a) 1940",
+          "isCorrect": true
+        },
+        {
+          "text": "b) 1945",
+          "isCorrect": false
+        },
+        {
+          "text": "c) 1939",
+          "isCorrect": false
+        },
+        {
+          "text": "d) 1950",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "b) 1945",
+      "imageUrl": null,
+      "createdAt": "ADMIN_GENERATED"
+    },
+    {
+      "category": "História",
+      "difficulty": "Fácil",
+      "text": "Quem foi o primeiro presidente do Brasil?",
+      "options": [
+        {
+          "text": "a) Dom Pedro II",
+          "isCorrect": true
+        },
+        {
+          "text": "b) Marechal Deodoro",
+          "isCorrect": false
+        },
+        {
+          "text": "c) Vargas",
+          "isCorrect": false
+        },
+        {
+          "text": "d) JK",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "b) Marechal Deodoro",
+      "imageUrl": null,
+      "createdAt": "ADMIN_GENERATED"
+    },
+    {
+      "category": "Ciência",
+      "difficulty": "Fácil",
+      "text": "Qual planeta é conhecido como o Planeta Vermelho?",
+      "options": [
+        {
+          "text": "a) Terra",
+          "isCorrect": true
+        },
+        {
+          "text": "b) Vênus",
+          "isCorrect": false
+        },
+        {
+          "text": "c) Marte",
+          "isCorrect": false
+        },
+        {
+          "text": "d) Júpiter",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "c) Marte",
+      "imageUrl": null,
+      "createdAt": "ADMIN_GENERATED"
+    },
+    {
+      "category": "Ciência",
+      "difficulty": "Fácil",
+      "text": "Qual é a fórmula da água?",
+      "options": [
+        {
+          "text": "a) CO2",
+          "isCorrect": true
+        },
+        {
+          "text": "b) H2O",
+          "isCorrect": false
+        },
+        {
+          "text": "c) O2",
+          "isCorrect": false
+        },
+        {
+          "text": "d) H2SO4",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "b) H2O",
+      "imageUrl": null,
+      "createdAt": "ADMIN_GENERATED"
+    },
+    {
+      "category": "Matemática",
+      "difficulty": "Fácil",
+      "text": "Quanto é 7 x 8?",
+      "options": [
+        {
+          "text": "a) 54",
+          "isCorrect": true
+        },
+        {
+          "text": "b) 56",
+          "isCorrect": false
+        },
+        {
+          "text": "c) 64",
+          "isCorrect": false
+        },
+        {
+          "text": "d) 58",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "b) 56",
+      "imageUrl": null,
+      "createdAt": "ADMIN_GENERATED"
+    },
+    {
+      "category": "Matemática",
+      "difficulty": "Fácil",
+      "text": "Qual é a raiz quadrada de 81?",
+      "options": [
+        {
+          "text": "a) 9",
+          "isCorrect": true
+        },
+        {
+          "text": "b) 8",
+          "isCorrect": false
+        },
+        {
+          "text": "c) 7",
+          "isCorrect": false
+        },
+        {
+          "text": "d) 6",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "a) 9",
+      "imageUrl": null,
+      "createdAt": "ADMIN_GENERATED"
+    },
+    {
+      "category": "Arte",
+      "difficulty": "Fácil",
+      "text": "Quem pintou a 'Mona Lisa'?",
+      "options": [
+        {
+          "text": "a) Van Gogh",
+          "isCorrect": true
+        },
+        {
+          "text": "b) Picasso",
+          "isCorrect": false
+        },
+        {
+          "text": "c) Da Vinci",
+          "isCorrect": false
+        },
+        {
+          "text": "d) Monet",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "c) Da Vinci",
+      "imageUrl": null,
+      "createdAt": "ADMIN_GENERATED"
+    },
+    {
+      "category": "Arte",
+      "difficulty": "Fácil",
+      "text": "Qual estilo é associado a Salvador Dalí?",
+      "options": [
+        {
+          "text": "a) Realismo",
+          "isCorrect": true
+        },
+        {
+          "text": "b) Cubismo",
+          "isCorrect": false
+        },
+        {
+          "text": "c) Surrealismo",
+          "isCorrect": false
+        },
+        {
+          "text": "d) Barroco",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "c) Surrealismo",
+      "imageUrl": null,
+      "createdAt": "ADMIN_GENERATED"
+    },
+    {
+      "category": "Entretenimento",
+      "difficulty": "Fácil",
+      "text": "Qual série tem os personagens Ross, Rachel e Chandler?",
+      "options": [
+        {
+          "text": "a) How I Met Your Mother",
+          "isCorrect": true
+        },
+        {
+          "text": "b) Friends",
+          "isCorrect": false
+        },
+        {
+          "text": "c) Seinfeld",
+          "isCorrect": false
+        },
+        {
+          "text": "d) The Office",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "b) Friends",
+      "imageUrl": null,
+      "createdAt": "ADMIN_GENERATED"
+    },
+    {
+      "category": "Entretenimento",
+      "difficulty": "Fácil",
+      "text": "Quem é o vilão principal de 'Vingadores: Ultimato'?",
+      "options": [
+        {
+          "text": "a) Loki",
+          "isCorrect": true
+        },
+        {
+          "text": "b) Thanos",
+          "isCorrect": false
+        },
+        {
+          "text": "c) Ultron",
+          "isCorrect": false
+        },
+        {
+          "text": "d) Kang",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "b) Thanos",
+      "imageUrl": null,
+      "createdAt": "ADMIN_GENERATED"
+    },
+    {
+      "category": "Esportes",
+      "difficulty": "Fácil",
+      "text": "Quantos jogadores tem um time de futebol?",
+      "options": [
+        {
+          "text": "a) 9",
+          "isCorrect": true
+        },
+        {
+          "text": "b) 10",
+          "isCorrect": false
+        },
+        {
+          "text": "c) 11",
+          "isCorrect": false
+        },
+        {
+          "text": "d) 12",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "c) 11",
+      "imageUrl": null,
+      "createdAt": "ADMIN_GENERATED"
+    },
+    {
+      "category": "Esportes",
+      "difficulty": "Fácil",
+      "text": "Qual país sediou a Copa do Mundo de 2014?",
+      "options": [
+        {
+          "text": "a) Alemanha",
+          "isCorrect": true
+        },
+        {
+          "text": "b) Brasil",
+          "isCorrect": false
+        },
+        {
+          "text": "c) África do Sul",
+          "isCorrect": false
+        },
+        {
+          "text": "d) Rússia",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "b) Brasil",
+      "imageUrl": null,
+      "createdAt": "ADMIN_GENERATED"
+    },
+    {
+      "category": "Português",
+      "difficulty": "Fácil",
+      "text": "Qual é o plural de 'cidadão'?",
+      "options": [
+        {
+          "text": "a) Cidadões",
+          "isCorrect": true
+        },
+        {
+          "text": "b) Cidadãos",
+          "isCorrect": false
+        },
+        {
+          "text": "c) Cidadães",
+          "isCorrect": false
+        },
+        {
+          "text": "d) Cidadãs",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "b) Cidadãos",
+      "imageUrl": null,
+      "createdAt": "ADMIN_GENERATED"
+    },
+    {
+      "category": "Português",
+      "difficulty": "Fácil",
+      "text": "Qual é a classe gramatical da palavra 'rápido'?",
+      "options": [
+        {
+          "text": "a) Substantivo",
+          "isCorrect": true
+        },
+        {
+          "text": "b) Verbo",
+          "isCorrect": false
+        },
+        {
+          "text": "c) Adjetivo",
+          "isCorrect": false
+        },
+        {
+          "text": "d) Advérbio",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "c) Adjetivo",
+      "imageUrl": null,
+      "createdAt": "ADMIN_GENERATED"
+    },
+    {
+      "category": "Picante",
+      "difficulty": "Fácil",
+      "text": "Qual dessas zonas é mais sensível ao toque?",
+      "options": [
+        {
+          "text": "a) Lábios",
+          "isCorrect": true
+        },
+        {
+          "text": "b) Cotovelos",
+          "isCorrect": false
+        },
+        {
+          "text": "c) Joelhos",
+          "isCorrect": false
+        },
+        {
+          "text": "d) Pés",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "a) Lábios",
+      "imageUrl": null,
+      "createdAt": "ADMIN_GENERATED"
+    },
+    {
+      "category": "Picante",
+      "difficulty": "Fácil",
+      "text": "Beijo na nuca pode causar?",
+      "options": [
+        {
+          "text": "a) Frio",
+          "isCorrect": true
+        },
+        {
+          "text": "b) Cólica",
+          "isCorrect": false
+        },
+        {
+          "text": "c) Arrepio",
+          "isCorrect": false
+        },
+        {
+          "text": "d) Dor",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "c) Arrepio",
+      "imageUrl": null,
+      "createdAt": "ADMIN_GENERATED"
+    }
+  ]
+}
